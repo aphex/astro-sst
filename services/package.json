@@ -1,0 +1,15 @@
+{
+  "name": "@astro-sst/services",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "aws-sdk": "^2.1198.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.102",
+    "@types/mime-types": "^2.1.1",
+    "find-up": "^6.3.0",
+    "mime-types": "^2.1.35"
+  }
+}
